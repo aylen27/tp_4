@@ -1,0 +1,214 @@
+main .cate {
+    height: auto;
+    width: 100%;
+
+    .resultados {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        gap: 50px;
+
+        .resto {
+            gap: 50px;
+            height: 300px;
+            width: 95%;
+            position: relative;
+            color: black;
+            box-shadow: 0 0 15px -2px black;
+
+            .imagen-resto {
+                width: 40%;
+                height: 300px;
+            }
+
+            img {
+                width: 100%;
+                height: 100%;
+            }
+
+            h3 {
+                width: 55%;
+                height: 80px;
+                font-size: 30px;
+                padding: 5px;
+                margin-left: 43%;
+                margin-top: -300px
+            }
+
+            h4 {
+                margin-left: 45%;
+                /* width: 40%; */
+                font-size: 23px;
+            }
+
+            .iconos {
+                display: flex;
+                justify-content: space-evenly;
+                width: 53%;
+                /* margin-top: 50px; */
+                margin-left: 43%;
+
+                .icon {
+                    text-align: center;
+
+                    color: black;
+
+                    .fa-star,
+                    .fa-location-dot {
+                        font-size: 25px;
+                        margin-top: 30px;
+                        margin-left: 25%;
+                    }
+
+                    .lado {
+                        margin-left: -7%;
+                        display: flex;
+                    }
+
+                    .ranking {
+                        text-align: center;
+                    }
+
+                    .distancia {
+                        text-align: center;
+                        width: 100px;
+                        height: 30px;
+                    }
+
+                    h5 {
+                        color: grey;
+                        text-align: center;
+                        font-size: 20px;
+                    }
+                }
+            }
+
+            .precio {
+                width: 25%;
+                height: auto;
+                font-size: 25px;
+                margin-top: 25px;
+                margin-left: 45%;
+            }
+
+            .btn {
+                border-radius: 14px;
+                font-size: 25px;
+                width: 20%;
+                height: 40px;
+                margin-left: 75%;
+            }
+
+
+
+        }
+    }
+}
+
+
+
+.location {
+    color: #777;
+}
+
+.datos {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    .bio {
+        display: flex;
+        /* width: 60%; */
+        height: 50px;
+
+        .icon {
+            border-radius: 50px;
+            height: 45px;
+            width: 5%;
+            font-size: 20px;
+            text-align: center;
+            justify-content: center;
+
+            .fa-user,
+            .fa-phone,
+            .fa-envelope {
+                margin-top: 10px;
+            }
+        }
+
+        h3 {
+            margin-top: 10px;
+            margin-left: 10%;
+        }
+
+        p {
+            margin-top: 10px;
+            margin-left: 10%;
+        }
+    }
+
+}
+
+.scroll-y {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+}
+
+.altura-maxima {
+    max-height: calc(100vh - var(--footer));
+}
+
+@media (orientation: landscape) {
+
+    header {
+        padding: 2%;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .categorias {
+            flex: 0 0 calc(50% - 10px);
+        }
+
+        .buscador {
+            flex: 0 0 calc(50% - 10px);
+            width: 70%;
+            left: 15%;
+        }
+
+    }
+
+    footer {
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .redondo {
+            flex: 0 0 calc(50% - 10px);
+        }
+    }
+
+    main {
+
+        .cate {
+            flex-direction: row;
+            flex-wrap: wrap;
+
+            .resultados {
+                flex: 0 0 calc(50% - 10px);
+            }
+        }
+
+        .profile-container {
+            flex-direction: row;
+            flex-wrap: wrap;
+
+            .profile-header,
+            .datos {
+                flex: 0 0 calc(50% - 10px);
+
+            }
+        }
+    }
+}

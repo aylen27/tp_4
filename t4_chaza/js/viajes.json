@@ -1,0 +1,174 @@
+[
+    {
+      "id": "1",
+      "lugar": "London",
+      "pais": "Inglaterra",
+      "imagen": "https://media.istockphoto.com/id/1308857790/es/foto/vista-elevada-al-tower-bridge-de-londres-durante-la-puesta-de-sol.jpg?s=612x612&w=0&k=20&c=5ZGqZkzoV6jdjy9E49SPfgTNWv15YrMJ0l-9IGcTuTM=",
+      "precio": 2000,
+      "ranking": 4.8,
+      "grados": 22,
+      "duracion": 7,
+      "descripcion": "Londres la capital de Inglaterra y del Reino Unido es una ciudad vibrante donde la historia y la modernidad se entrelazan a la perfección. Fundada por los romanos y situada a orillas del río Támesis es un destino mundialmente reconocido por su rica herencia cultural representada en monumentos emblemáticos como el Big Ben la Torre de Londres y el Palacio de Buckingham. Con una población diversa de más de 8 millones de personas Londres es un centro multicultural que ofrece una mezcla única de tradiciones innovación arte y vida urbana. Su dinamismo se refleja en sus museos de clase mundial como el Museo Británico, su icónica escena teatral en el West End y su vibrante oferta gastronómica que incluye sabores de todas las culturas del mundo.",
+      "aventura":
+        {
+        "id":1,
+        "lugar": "London Eye",
+        "pais": "Inglaterra",
+        "aventura": "Noria",
+        "imagen": "https://wallpapers.com/images/hd/london-eye-ferris-wheel-in-united-kingdom-9ua5624z8tyck98d.jpg",
+        "duracion": 4,
+        "dificultad": 8,
+        "descripcion": "La **London Eye**, también conocida como la Noria del Milenio, es una rueda de observación icónica ubicada en el corazón de Londres, junto al río Támesis. Con 135 metros de altura, fue la más alta del mundo al momento de su inauguración en el año 2000. Su diseño futurista cuenta con 32 cápsulas de vidrio climatizadas, cada una representando un distrito de Londres, con capacidad para 25 personas. Un giro completo dura unos 30 minutos, permitiendo vistas panorámicas espectaculares de hasta 40 kilómetros en días despejados, incluyendo puntos emblemáticos como el Big Ben, el Palacio de Buckingham y la Catedral de San Pablo. Diseñada inicialmente como una atracción temporal, su popularidad la consolidó como un símbolo permanente de la ciudad y una de las atracciones más visitadas del Reino Unido.",
+        "precio":"15000"
+        }
+      
+      
+    },
+    {
+      "id": "2",
+      "lugar": "Paris",
+      "pais": "Francia",
+      "imagen":"https://s1.elespanol.com/2023/06/16/actualidad/771933350_234003971_855x1140.jpg",
+      "precio": 2500,
+      "ranking": 4.9,
+      "grados": 28,
+      "duracion": 10,
+      "descripcion": "París la capital de Francia es conocida como la Ciudad de la Luz y un símbolo mundial de romance arte y cultura Ubicada a orillas del río Sena esta icónica ciudad deslumbra con su arquitectura elegante que incluye monumentos legendarios como la Torre Eiffel la Catedral de Notre Dame y el Arco de Triunfo Hogar de museos de renombre como el Louvre y el Museo de Orsay París es un paraíso para los amantes del arte y la historia Su atmósfera bohemia y sofisticada se refleja en sus pintorescos cafés avenidas arboladas como los Campos Elíseos y barrios encantadores como Montmartre Además es una de las capitales de la moda y la gastronomía ofreciendo experiencias inolvidables a cada visitante",
+      "aventura":
+        {
+          "id":2,
+          "lugar": "Torre eiffel",
+          "pais": "Francia",
+          "aventura": "Torre Eiffel",
+          "imagen": "https://s1.elespanol.com/2023/06/16/actualidad/771933350_234003971_855x1140.jpg",
+          "duracion": 4,
+          "dificultad": 5,
+          "descripcion": "La Torre Eiffel es uno de los monumentos más emblemáticos de París y del mundo, conocida por su impresionante estructura de hierro forjado. Inaugurada en 1889 para la Exposición Universal en París, fue diseñada por el ingeniero Gustave Eiffel y originalmente criticada por muchos, pero rápidamente se convirtió en un símbolo de la ciudad. Con una altura de 330 metros, la torre fue el edificio más alto del mundo hasta la construcción del rascacielos Chrysler en Nueva York en 1930. Cuenta con varios niveles accesibles al público, ofreciendo impresionantes vistas panorámicas de París. Además, es famosa por su iluminación nocturna, que la convierte en un espectáculo visual. Hoy en día, la Torre Eiffel es una de las atracciones turísticas más visitadas del mundo, recibiendo millones de visitantes cada año.",
+          "precio":"20000"
+        }
+    },
+
+    {
+      "id": "3",
+      "lugar": "Atenas",
+      "pais": "Grecia",
+      "imagen": "./img/atenas.jpg",
+      "precio": 1500,
+      "ranking": 4.7,
+      "grados": 25,
+      "duracion": 5,
+      "descripcion": "Atenas la capital de Grecia es una ciudad cargada de historia y considerada la cuna de la civilización occidental y la democracia moderna Situada en la región de Ática y rodeada de montañas y el mar Egeo Atenas combina su pasado glorioso con una vibrante vida contemporánea Es conocida por sus sitios arqueológicos como la Acrópolis el Partenón y el Ágora que ofrecen un vistazo al esplendor de la antigua Grecia Su ambiente cosmopolita se refleja en sus animados barrios mercados tradicionales y modernos centros culturales Además su gastronomía mediterránea rica en sabores tradicionales completa la experiencia única que ofrece esta histórica ciudad",
+      "aventura":
+        {
+          "id":3,
+          "lugar": "Atenas",
+          "pais": "Grecia",
+          "aventura": "Acropolis",
+          "imagen":"./img/acro.jpg",
+          "duracion": 2,
+          "dificultad": 4,
+          "descripcion": "La **Acrópolis de Atenas** es un conjunto monumental ubicado en una colina rocosa en el corazón de Atenas, Grecia, y es uno de los mayores símbolos de la civilización griega antigua y la democracia. Construida en el siglo V a.C., durante el apogeo de la ciudad bajo el liderazgo de Pericles, alberga templos emblemáticos como el **Partenón**, dedicado a la diosa Atenea, el **Erecteión**, con su famoso pórtico de las Cariátides, y el **Templo de Atenea Niké**. Este sitio combina arquitectura clásica y significado histórico, reflejando los logros artísticos y culturales de la antigua Grecia. La Acrópolis, declarada Patrimonio de la Humanidad por la UNESCO, sigue siendo un símbolo universal de la cultura, la historia y el espíritu democrático.​",
+          "precio":"10000"
+        }
+        
+    },
+    {
+      "id": "4",
+      "lugar": "Rio de Janeiro",
+      "pais": "Brasil",
+      "imagen": "https://e0.pxfuel.com/wallpapers/613/275/desktop-wallpaper-rio-de-janeiro-brazil.jpg",
+      "precio": 1800,
+      "ranking": 4.8,
+      "grados": 18,
+      "duracion": 8,
+      "descripcion": "Río de Janeiro la segunda ciudad más grande de Brasil es conocida por su energía vibrante sus playas icónicas y su impresionante entorno natural Situada entre montañas y el océano Atlántico Río combina paisajes espectaculares con una rica herencia cultural Su fama mundial proviene de lugares emblemáticos como el Cristo Redentor el Pan de Azúcar y las playas de Copacabana e Ipanema Además es la capital del carnaval un evento deslumbrante lleno de música samba y colores que refleja el espíritu festivo de su gente Con una mezcla de tradición y modernidad Río de Janeiro es un destino único que cautiva a todos los que la visitan",
+      "aventura":
+        {
+          "id":4,
+          "lugar": "Rio de Janeiro",
+          "pais": "Brasil",
+          "aventura": "Senderismo",
+          "imagen": "./img/bra.jpg",
+          "duracion": 5,
+          "dificultad": 9,
+          "descripcion": "El senderismo en Brasil ofrece una experiencia única gracias a la diversidad de paisajes que abarcan desde selvas tropicales y montañas imponentes hasta playas paradisíacas y cañones profundos. Este vasto país cuenta con rutas icónicas como las del Parque Nacional de la Chapada Diamantina en Bahía donde se pueden explorar cascadas grutas y valles impresionantes o los senderos del Parque Nacional de los Lençóis Maranhenses que combinan dunas de arena blanca con lagunas de agua cristalina. En el sur destacan los caminos del Parque Nacional Aparados da Serra famosos por sus cañones y en Río de Janeiro el Parque Nacional de Tijuca ofrece senderos accesibles con vistas panorámicas de la ciudad Además el Amazonas brinda una experiencia de trekking inmersiva en la selva tropical más grande del mundo permitiendo conectar con la naturaleza en su estado más puro Cada región de Brasil ofrece una aventura distinta ideal para los amantes de la naturaleza y el aire libre",
+          "precio":"15000"
+        }
+        
+      
+    },
+    {
+      "id": "5",
+      "lugar": "Isla de pascua",
+      "pais": "Chile",
+      "imagen":"./img/pascua.jpg",
+      "precio": 1200,
+      "ranking": 4.6,
+      "grados": 32,
+      "duracion": 6,
+      "descripcion": "La Isla de Pascua es un territorio insular chileno ubicado en el océano Pacífico conocido por sus enigmáticas estatuas monumentales llamadas moáis que fueron esculpidas por los antiguos habitantes rapanui. La isla es remota y está a más de 3.500 kilómetros de la costa más cercana siendo uno de los lugares habitados más aislados del mundo. Su cultura es rica en tradiciones y mitos ancestrales y su paisaje está marcado por volcanes antiguos impresionantes playas y un ecosistema único. El clima subtropical de la isla y su belleza natural atraen a turistas de todo el mundo que buscan explorar su historia arqueológica y disfrutar de sus paisajes sobrecogedores.",
+      "aventura":
+        {
+          "id":5,
+          "lugar": "Isla de pascua",
+          "pais": "Chile",
+          "aventura": "Visita guiada",
+          "imagen":"./img/pascua2.jpg",
+          "duracion": 4,
+          "dificultad": 5,
+          "descripcion": "Una visita guiada a la Isla de Pascua es una experiencia única que permite conocer en profundidad la historia y los misterios de este remoto rincón del mundo. Durante el recorrido un guía local experto en la cultura rapanui te llevará a explorar los sitios más emblemáticos de la isla comenzando por los famosos moáis las enormes estatuas de piedra que fueron esculpidas entre los siglos XIII y XVI. La visita incluye lugares como el Ahu Tongariki, donde se encuentran alineados los moáis más grandes, y el volcán Rano Raraku la cantera donde se tallaban las estatuas.",
+          "precio":"25000"
+        }
+        
+      
+    },
+    {
+      "id": "6",
+      "lugar": "Estambul",
+      "pais": "Turquia",
+      "imagen":"./img/estambul.jpg",
+      "precio": 3000,
+      "ranking": 4.9,
+      "grados": 26,
+      "duracion": 12,
+      "descripcion": "Estambul es una ciudad vibrante y multicultural situada en el estrecho del Bósforo que conecta Europa y Asia. Con una historia que abarca miles de años fue capital de tres grandes imperios: romano, bizantino y otomano. Su arquitectura mezcla influencias de distintas épocas y culturas desde la majestuosa Santa Sofía y la Mezquita Azul hasta el Palacio Topkapi y el Gran Bazar. La ciudad es famosa por su animado crisol de tradiciones antiguas y modernas donde se cruzan mercados bulliciosos con tranquilos cafés a orillas del mar.",
+      "aventura":
+        {
+          "id":6,
+          "lugar": "Cisterna Basílica",
+          "pais": "Turquia",
+          "aventura": "Cisterna Basílica",
+          "imagen":"./img/basi.jpg",
+          "duracion": 7,
+          "dificultad": 3,
+          "descripcion": "La Cisterna Basílica de Estambul es una impresionante construcción subterránea que data del siglo VI durante el reinado del emperador bizantino Justiniano. Originalmente construida para abastecer de agua al Palacio Imperial, la cisterna es conocida por su vasto tamaño y atmósfera misteriosa. Con 336 columnas de mármol que sostienen su techo, la cisterna crea un espacio sombrío y silencioso, iluminado solo por suaves luces que realzan la belleza de sus reflejos en el agua que aún cubre el suelo. Entre sus columnas destacan dos cabezas de medusa, que fueron reutilizadas de antiguos edificios, aportando un aire de enigma y fascinación. Este sitio histórico ofrece una experiencia única que conecta el pasado imperial de la ciudad con la majestuosidad de su arquitectura subterránea.",
+          "precio":"1.000.000"
+        }
+      
+    },
+    {
+      "id": "7",
+      "lugar": "Mar del Plata",
+      "pais": "Argentina",
+      "imagen":"./img/mardel.jpg",
+      "precio": 3500,
+      "ranking": 4.8,
+      "grados": 30,
+      "duracion": 7,
+      "descripcion": "Mar del Plata es una ciudad costera ubicada en la provincia de Buenos Aires, Argentina, conocida por sus hermosas playas y su vibrante vida turística. A orillas del océano Atlántico, la ciudad es un destino popular tanto para turistas locales como internacionales, que disfrutan de su oferta de actividades acuáticas, deportes de playa y su tradicional arquitectura de estilo colonial y art déco. Mar del Plata también es famosa por su puerto pesquero, su variada oferta gastronómica, especialmente los mariscos, y su animada vida nocturna. Además de su atractivo como balneario, la ciudad cuenta con teatros, museos y eventos culturales que la convierten en un punto de encuentro para amantes del arte y la cultura.",
+      "aventura": 
+      {
+        "id": 7,
+        "lugar": "Mar del Plata",
+        "pais": "Argentina",
+        "aventura": "Visita al Faro",
+        "imagen": "./img/faro.jpg",
+        "duracion": 6,
+        "dificultad": 4,
+        "descripcion": "Una visita al Faro de Mar del Plata es una experiencia que combina historia, naturaleza y vistas espectaculares. Situado en la punta de la escollera norte del puerto, este faro ha sido un símbolo de la ciudad desde su inauguración en 1891. Al subir sus 208 escalones, los visitantes pueden disfrutar de una panorámica única de la costa atlántica, el mar y la ciudad en el horizonte. El faro es un importante referente para la navegación y su estructura de 66 metros de altura se destaca como uno de los puntos más emblemáticos de Mar del Plata. Además de su función histórica, el entorno natural que lo rodea, con su acantilado y vistas del océano, lo convierte en un lugar ideal para caminar, tomar fotos y disfrutar de la brisa marina.",
+        "precio": "5000"
+      }
+      
+      
+    }
+]

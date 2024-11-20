@@ -1,0 +1,49 @@
+[
+    {
+        "alojamientos":{
+        "id": 1,
+        "nombre": "Vuelo a Paris",
+        "descrip":"Vola a tu lugar favorito en el mundo con la mejor aerolinea",
+        "precio": 750.548,
+        "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1721873-copia-de-foto-para-wp-2024-07-16t082810-699.jpg?c=original"
+        }
+        
+    },
+    {
+        "alojamientos":{
+            "id": 2,
+            "nombre": "Vuelo a London",
+            "descrip":"Vola a tu lugar favorito en el mundo con la mejor aerolinea",
+            "precio": 800.400,
+            "imagen": "https://www.infobae.com/resizer/v2/I2XXANNSMNHXFBVMDKGSYBOOCI.jpg?auth=c51de505e2bc7702d9376d70a27850fe8907c2f2a5f0376a1f934e7bee92f70d&smart=true&width=350&height=197&quality=85"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 3,
+            "nombre": "Vuelo a Atenas",
+            "descrip":"Vola a tu lugar favorito en el mundo con la mejor aerolinea",
+            "precio": 700.056,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdxGHPcm9JhcaKtLiBSNjmSDM3gP5RpAf0wmftAgkZ6QUp6ke2taYnh2S5XpBfLdm2pA&usqp=CAU"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 4,
+            "nombre": "Vuelo a Brasil",
+            "descrip":"Vola a tu lugar favorito en el mundo con la mejor aerolinea",
+            "precio": 506.056,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJi0J3F1glmsHkXWpaK12x_Lj_CexcoL3nzQ&s"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 5,
+            "nombre": "Vuelo a Estambul",
+            "descrip":"Vola a tu lugar favorito en el mundo con la mejor aerolinea",
+            "precio": 400.056,
+            "imagen": "https://images.ecestaticos.com/JZUWhffsgNPloxqHcoJ89UED2Es=/0x107:2116x1297/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4a4%2Fab7%2F874%2F4a4ab78742743f3a85916eeee191cc18.jpg"
+        }
+    }
+    
+]

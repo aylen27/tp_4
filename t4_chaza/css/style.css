@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/playa2.jpg);
+}
+
+.contenedor{
+    width: 100%;
+    height: 600px;
+    margin-top: 350px;
+}
+
+header{
+    width: 100%;
+    height: auto;
+
+    .titulo{
+        width: 100%;
+        height: 112px;
+        /* margin-top: -200px; */
+
+        .sub{
+            width: 100%;
+            height: 44px;
+            display: flex;
+            font-size: 40px;
+            justify-content: center;
+            color: rgb(255, 250, 250);
+        }
+    }
+}
+
+main{
+    width: 100%;
+    height:auto;
+
+    .descripcion{
+        width: 100%;
+        height: 100px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+        .sub{
+            width: 78%;
+            height: 100px;
+            font-size: 25px;
+            color: rgb(250, 232, 232);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+    }
+
+    .btn{
+        width: 100%;
+        height: 110px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/* CSS */
+.button-81 {
+    width:300px ;
+  background-color: #fff;
+  border: 0 solid #e2e8f0;
+  border-radius: 1.5rem;
+  box-sizing: border-box;
+  color: #0d172a;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 1rem 1.6rem;
+  text-align: center;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-family: "Playfair Display", serif;
+
+}
+
+.button-81:hover {
+  background-color: #c8d2f2;
+  color: #fff;
+}
+
+@media (orientation: landscape){
+
+    .body{
+        width: 100%;
+        height: auto;
+    }
+
+  .button-81 {
+    font-size: 1.125rem;
+    padding: 1rem 2rem;
+  }
+}
